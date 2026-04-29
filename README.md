@@ -5,7 +5,7 @@ A reproducible quality-assurance (QA) workflow for computer-adaptive testing (CA
 
 ## What this repo contains
 - **`qa_cat_mst_pipeline.R`** — main pipeline (functions + runner + dataset config pattern)
-- **`Outputs/`** — small example outputs (CSV + PNG) demonstrating the artifacts produced by the pipeline
+- **`Outputs`** — small example outputs (CSV + PNG) demonstrating the artifacts produced by the pipeline
 
 > **Data are not included** in this repository.
 Example outputs are included for demonstration; do not commit sensitive artifacts.
